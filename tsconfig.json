@@ -1,3 +1,4 @@
+git remote add origin https://github.com/NeoOrlando14/Guided_8.git
 {
   "compilerOptions": {
     "target": "ES2017",
